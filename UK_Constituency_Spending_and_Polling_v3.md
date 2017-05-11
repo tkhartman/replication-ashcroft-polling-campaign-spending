@@ -15,10 +15,6 @@ pacman::p_load(dplyr, haven, plyr, readxl, survey, tidyr, zeligverse)
 
 ## Set display options
 options("scipen" = 100, "digits" = 4)
-
-## Set the working directory
-# setwd("C:/users/fs1tkh/Dropbox/_RESEARCH/Pattie_Johnston_2015_UK_Election/Ashcroft_Polling_Project/Data/") # Mac OSX
-# setwd("~/Dropbox/_RESEARCH/Pattie_Johnston_2015_UK_Election/Ashcroft_Polling_Project/Data/") # Mac OSX
 ```
 
 Load the 2015 campaign spending data
